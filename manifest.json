@@ -1,9 +1,0 @@
-{
-  "name": "Simple YouTube Looper",
-  "description": "Loop a YouTube video without downloading on every loop",
-  "version": "1.0",
-  "permissions": [
-    "tabs","activeTab"
-  ],
-  "manifest_version": 2
-}
