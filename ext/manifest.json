@@ -7,7 +7,7 @@
   ],
   "background": {
     "scripts":["background.js"]
-  }
+  },
   "page_action": {
     "default_icon":"ok.png"
   },
