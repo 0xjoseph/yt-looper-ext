@@ -5,5 +5,8 @@
   "permissions": [
     "tabs","activeTab"
   ],
+  "page_action": {
+    "default_icon":"ok.png"
+  },
   "manifest_version": 2
 }
