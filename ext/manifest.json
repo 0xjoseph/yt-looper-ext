@@ -1,6 +1,6 @@
 {
   "name": "Simple YouTube Looper",
-  "description": "Loop a YouTube video without downloading on every loop",
+  "description": "Loop a YouTube video",
   "version": "1.0",
   "permissions": [
     "tabs","activeTab"
@@ -9,7 +9,8 @@
     "scripts":["background.js"]
   },
   "page_action": {
-    "default_icon":"ok.png"
+    "default_icon":"error.png",
+    "default_title":"YouTube Looper"
   },
   "manifest_version": 2
 }
